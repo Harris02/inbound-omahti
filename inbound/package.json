@@ -1,5 +1,5 @@
 {
-  "name": "inboundoti",
+  "name": "inbound",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -9,10 +9,11 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "eslint": "8.26.0",
-    "eslint-config-next": "13.0.2",
+    "leaflet": "^1.9.2",
     "next": "13.0.2",
-    "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-hook": "^0.0.1",
+    "react-leaflet": "^4.1.0"
   }
 }
